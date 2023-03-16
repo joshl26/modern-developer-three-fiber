@@ -1,4 +1,4 @@
-<h1> align="center">Welcome to modern-developer-three-fiber 👋</h1>
+<h1 align="center">Welcome to modern-developer-three-fiber 👋</h1>
 
 <p>
 
@@ -14,8 +14,6 @@ EP2 - Importing a 3D avatar into your scene Part 2
 
 ### 🏠 [Homepage](https://github.com/joshl26/modern-developer-react-mern-fullstack#readme)
 
-
-### ✨ [Live Demo](https://mern-test-frontend-vzc1.onrender.com)
 
 
 ## Author
